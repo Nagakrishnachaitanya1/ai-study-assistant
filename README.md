@@ -1,5 +1,3 @@
-# AI Study Assistant
-
 AI-powered student assistant built with Google's Gemini API.
 
 ## Features
@@ -32,3 +30,52 @@ AI-powered student assistant built with Google's Gemini API.
 - ChatGPT-style interface using Gradio ChatInterface
 - Improved conversation experience
 - Automatic chat history display
+
+### Version 3.0
+
+#### New Features
+
+* Added Study Modes:
+
+  * Chat Mode
+  * Notes Mode
+  * Quiz Mode
+  * Flashcards Mode
+* Added Personality Selection:
+
+  * Friendly
+  * Academic
+* Integrated Study Modes with Gemini API
+* Direct ChatInterface Integration
+* Separate Memory for Each Personality
+
+#### Improvements
+
+* Simplified architecture by removing the chatbot wrapper function
+* Improved user experience with dropdown-based controls
+* Cleaner code structure and easier maintenance
+
+#### Tech Stack
+
+* Python
+* Google Gemini API
+* Gradio ChatInterface
+
+#### Learning Outcomes
+
+* Understanding ChatInterface additional_inputs
+* Managing multiple AI personalities
+* Prompt engineering for different study modes
+* Memory management for conversational AI
+
+## Features
+
+* Conversational AI using Gemini API
+* Multiple Personalities (Friendly & Academic)
+* Separate Memory per Personality
+* ChatGPT-style Gradio Interface
+* Study Notes Generation
+* Quiz Generation
+* Flashcard Generation
+* Context-Aware Conversations
+* Study Mode Selection
