@@ -79,3 +79,6 @@ AI-powered student assistant built with Google's Gemini API.
 * Flashcard Generation
 * Context-Aware Conversations
 * Study Mode Selection
+
+
+Updated Version 4.0 roadmap and PDF integration planning.
